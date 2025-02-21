@@ -41,7 +41,3 @@ Predictive Racing Game is an AI-powered racing simulation where players compete 
 This project is licensed under the MIT License.
 
 ## Contact Information
-
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
